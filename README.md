@@ -1,6 +1,8 @@
 <h1>Hi 👋, I'm Kevind Radhitya Wicaksono</h1>
 <p>Introducing my name is Kevind Radhitya Wicaksono I come from Indonesia, East Java province, and Bondowoso district, my initial journey into the IT world began when I was in high school and the language I first used was php programming language for web development and now I am learning about android application development and desktop application development</p>
 
+<img src="https://www.codewars.com/users/Kradhityaw/badges/small" alt="codewars"/>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kradhityaw" alt="kradhityaw" /></a> </p>
 
 - 💬 Ask me about **.NET, C#, Kotlin, PHP, Laravel**
@@ -12,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/kevind_radhitya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kevind_radhitya" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/kevind radhitya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kevind radhitya" height="30" width="40" /></a>
+<a href="https://youtube.com/@kevindradh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kevind radhitya" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
