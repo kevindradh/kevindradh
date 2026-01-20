@@ -3,7 +3,7 @@
 
 <img src="https://www.codewars.com/users/Kradhityaw/badges/small" alt="codewars"/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kradhityaw" alt="kradhityaw" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kevindradh" alt="kevindradh" /></a> </p>
 
 - 💬 Ask me about **.NET, C#, Kotlin, PHP, Laravel**
 
