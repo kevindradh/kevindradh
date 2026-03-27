@@ -1,3 +1,4 @@
+```csharp
 using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
@@ -9,25 +10,16 @@ namespace GitHubProfile
     /// </summary>
     public class DeveloperProfile
     {
-        // ==========================================
-        // Basic Info
-        // ==========================================
         public string Name { get; } = "Kevind Radhitya";
         public string Role { get; } = "Android Developer";
         public string Location { get; } = "Bondowoso, East Java, Indonesia";
         
-        // ==========================================
-        // Tech Stack & Skills
-        // ==========================================
         public List<string> Skills { get; } = new List<string>
         {
             "C#", ".NET Core", "ASP.NET Web API", 
             "Entity Framework", "SQL Server", "Git", "Kotlin"
         };
 
-        // ==========================================
-        // Current Status
-        // ==========================================
         public Dictionary<string, string> GetCurrentStatus()
         {
             return new Dictionary<string, string>
@@ -37,9 +29,6 @@ namespace GitHubProfile
             };
         }
 
-        // ==========================================
-        // Let's Connect!
-        // ==========================================
         public async Task ContactMeAsync()
         {
             var links = new Dictionary<string, string>
@@ -58,3 +47,4 @@ namespace GitHubProfile
         }
     }
 }
+```
