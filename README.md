@@ -49,3 +49,4 @@ namespace GitHubProfile
 }
 ```
 ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kevindradh&layout=compact)
+![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=kevindradh&show_icons=true&theme=transparent)
